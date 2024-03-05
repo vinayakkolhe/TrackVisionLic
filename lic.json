@@ -1,8 +1,8 @@
 {
-    "lics":[
+    "Lics":[
         {
-            "key": "123",
-            "userdFor":"This is test"
+            "Key": "123",
+            "UsedFor":"This is test"
         } 
     ]
 }
